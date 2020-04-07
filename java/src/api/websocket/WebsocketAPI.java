@@ -6,7 +6,7 @@ import com.alibaba.fastjson.JSONObject;
 
 public class WebsocketAPI {
 
-	private static final String URL = "wss://ws.tbdex.top/websocket";
+	private static final String URL = "wss://socket.tbdex.top/websocket";
 	
 	private WebsocketClient wc;
 	
