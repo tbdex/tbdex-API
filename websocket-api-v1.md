@@ -3,7 +3,7 @@
 ### WEBSOCKET API
 
 ``
-wss://ws.tbdex.top/websocket
+wss://socket.tbdex.top/websocket
 ``
 
 
